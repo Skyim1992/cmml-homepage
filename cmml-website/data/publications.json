@@ -1,0 +1,316 @@
+{
+  "_comment": "논문을 추가하려면 items 배열에 객체를 추가하세요. year(숫자), date, title, authors, journal, doi(있으면), impact, first(제1저자 여부), corresponding(교신저자 여부). 연도별로 자동 그룹핑·정렬됩니다.",
+  "labels": {
+    "title": {
+      "en": "Publications",
+      "ko": "논문"
+    },
+    "intro": {
+      "en": "Peer-reviewed journal articles. Names in bold indicate members of the lab; * denotes corresponding author.",
+      "ko": "동료심사 학술지 논문입니다. 굵은 글씨는 연구실 구성원, *는 교신저자를 나타냅니다."
+    },
+    "stats_total": {
+      "en": "journal articles",
+      "ko": "편의 학술지 논문"
+    },
+    "stats_first": {
+      "en": "as first author",
+      "ko": "편 제1저자"
+    },
+    "stats_corr": {
+      "en": "as corresponding author",
+      "ko": "편 교신저자"
+    },
+    "badge_first": {
+      "en": "First author",
+      "ko": "제1저자"
+    },
+    "badge_corr": {
+      "en": "Corresponding",
+      "ko": "교신저자"
+    },
+    "doi_label": {
+      "en": "DOI",
+      "ko": "DOI"
+    },
+    "empty": {
+      "en": "No publications listed yet.",
+      "ko": "등록된 논문이 없습니다."
+    },
+    "jcr10": {
+      "en": "JCR Top 10%",
+      "ko": "JCR 상위 10%"
+    },
+    "jcr25": {
+      "en": "JCR Top 25%",
+      "ko": "JCR 상위 25%"
+    },
+    "jcr50": {
+      "en": "JCR Top 50%",
+      "ko": "JCR 상위 50%"
+    },
+    "stats_top10": {
+      "en": "in top-10% journals (JCR)",
+      "ko": "JCR 상위 10% 저널"
+    }
+  },
+  "highlight_author": "Seungkyun Yim",
+  "items": [
+    {
+      "year": 2026,
+      "date": "Dec 2026",
+      "title": "Overcoming the strength–weldability trade-off in high γ′ fraction Ni-based superalloys through alloy redesign and electron beam powder bed fusion",
+      "authors": "Haejin Lee, Hyun-Uk Hong, Akihiko Chiba, Seungkyun Yim*, Byoungsoo Lee*",
+      "journal": "Materials Science and Engineering: A",
+      "volume": "977",
+      "article": "151105",
+      "doi": "10.1016/j.msea.2026.151105",
+      "impact": "IF 7.0",
+      "first": false,
+      "corresponding": true,
+      "jcr": "10"
+    },
+    {
+      "year": 2026,
+      "date": "Jul 2026",
+      "title": "Recoating flowability of Inconel 713LC powders in powder bed fusion: Linking bulk shear, charge relaxation, flow regimes, and effective cohesion",
+      "authors": "Akihiko Chiba*, Seungkyun Yim, Takemi Chiba, Keiji Yanagihara",
+      "journal": "Powder Technology",
+      "doi": "10.1016/j.powtec.2026.122712",
+      "impact": "IF 5.5",
+      "first": false,
+      "corresponding": false,
+      "jcr": "25"
+    },
+    {
+      "year": 2026,
+      "date": "Jul 2026",
+      "title": "Uncovering microstructure evolution in Fe-6.5Si alloy during powder bed fusion electron beam melting: A multiphysics simulation study",
+      "authors": "Seungkyun Yim*, Kosho Wada, Takuya Kita, Taeheon Kim*, Hidemi Kato, Akihiko Chiba",
+      "journal": "Additive Manufacturing",
+      "volume": "128",
+      "article": "105319",
+      "doi": "10.1016/j.addma.2026.105319",
+      "impact": "IF 11.3",
+      "first": true,
+      "corresponding": true,
+      "jcr": "10"
+    },
+    {
+      "year": 2026,
+      "date": "May 2026",
+      "title": "Microstructure, cryogenic tensile and fracture behavior of laser welded Co17.5Cr12.5Fe55Ni10Mo5 complex concentrated alloy",
+      "authors": "Jae Hyuk Lee, Jeongmin Lee, Hidemi Kato, Seungkyun Yim, Dongkyoung Lee, Gian Song, Jeong Hun Lee, Dong Jun Lee, Young-Kyun Kim, Young-Sang Na, Hyoung Seop Kim, Jongun Moon*, Soo-Hyun Joo*",
+      "journal": "Materials Science and Engineering: A",
+      "doi": "10.1016/j.msea.2026.150106",
+      "impact": "IF 7.0",
+      "first": false,
+      "corresponding": false,
+      "jcr": "10"
+    },
+    {
+      "year": 2025,
+      "date": "Jul 2025",
+      "title": "Influence of particle size distribution on the powder bed quality in the powder bed fusion additive manufacturing process",
+      "authors": "Seungkyun Yim*, Koki Minowa, Kenta Yamanaka, Akihiko Chiba",
+      "journal": "Journal of Materials Research and Technology",
+      "doi": "10.1016/j.jmrt.2025.06.136",
+      "impact": "IF 6.6",
+      "first": true,
+      "corresponding": true,
+      "jcr": "10"
+    },
+    {
+      "year": 2025,
+      "date": "Mar 2025",
+      "title": "Unveiling the influence of printing surfaces in powder bed fusion electron beam melting through multiphysics simulation",
+      "authors": "Seungkyun Yim*, Tack Lee, Keiji Yanagihara, Kenta Aoyagi, Kenta Yamanaka, Akihiko Chiba",
+      "journal": "Additive Manufacturing",
+      "doi": "10.1016/j.addma.2025.104738",
+      "impact": "IF 11.3",
+      "first": true,
+      "corresponding": true,
+      "jcr": "10"
+    },
+    {
+      "year": 2025,
+      "date": "Mar 2025",
+      "title": "Comparative evaluation of powder spreading strategies to enhance powder bed quality in powder bed fusion additive manufacturing: A DEM simulation study",
+      "authors": "Seungkyun Yim*, Hao Wang, Kenta Aoyagi, Kenta Yamanaka, Akihiko Chiba",
+      "journal": "Powder Technology",
+      "doi": "10.1016/J.POWTEC.2025.120614",
+      "impact": "IF 5.5",
+      "first": true,
+      "corresponding": true,
+      "jcr": "25"
+    },
+    {
+      "year": 2024,
+      "date": "Sep 2024",
+      "title": "Multi-material additive manufacturing of steel/Al alloy by controlling the liquid/solid interface in laser beam powder bed fusion",
+      "authors": "Yujie Cui, Jiaxiang Li, Seungkyun Yim*, Kenta Yamanaka*, Kenta Aoyagi, Hao Wang, Akihiko Chiba",
+      "journal": "Additive Manufacturing",
+      "doi": "10.1016/J.ADDMA.2024.104529",
+      "impact": "IF 11.1",
+      "first": false,
+      "corresponding": true,
+      "jcr": "10"
+    },
+    {
+      "year": 2024,
+      "date": "Aug 2024",
+      "title": "Role of gravity magnitude on flowability and powder spreading in the powder bed fusion additive manufacturing process: Towards additive manufacturing in space",
+      "authors": "Seungkyun Yim*, Hao Wang, Kenta Aoyagi, Kenta Yamanaka, Akihiko Chiba",
+      "journal": "Additive Manufacturing",
+      "doi": "10.1016/J.ADDMA.2024.104441",
+      "impact": "IF 11.1",
+      "first": true,
+      "corresponding": true,
+      "jcr": "10"
+    },
+    {
+      "year": 2023,
+      "date": "Nov 2023",
+      "title": "Cracking behavior of Ti-48Al-2Cr-2Nb alloy in powder bed fusion electron beam melting process",
+      "authors": "Seungkyun Yim*, Kenta Aoyagi*, Huakang Bian, Keiji Yanagihara, Yuchao Lei, Shin-ichi Kitamura, Hironobu Manabe, Yohei Daino, Kenta Yamanaka, Akihiko Chiba*",
+      "journal": "Journal of Materials Processing Technology",
+      "doi": "10.1016/J.JMATPROTEC.2023.118104",
+      "impact": "IF 6.3",
+      "first": true,
+      "corresponding": true,
+      "jcr": "25"
+    },
+    {
+      "year": 2023,
+      "date": "Sep 2023",
+      "title": "In-situ observation of powder spreading in powder bed fusion metal additive manufacturing process using particle image velocimetry",
+      "authors": "Seungkyun Yim*, Jiayu Sun, Koki Minowa, Hao Wang, Kenta Aoyagi*, Kenta Yamanaka, Akihiko Chiba",
+      "journal": "Additive Manufacturing",
+      "doi": "10.1016/J.ADDMA.2023.103823",
+      "impact": "IF 10.3",
+      "first": true,
+      "corresponding": true,
+      "jcr": "10"
+    },
+    {
+      "year": 2023,
+      "date": "Jun 2023",
+      "title": "Effect of powder morphology on flowability and spreading behavior in powder bed fusion additive manufacturing process: A particle-scale modeling study",
+      "authors": "Seungkyun Yim*, Huakang Bian, Kenta Aoyagi*, Kenta Yamanaka, Akihiko Chiba",
+      "journal": "Additive Manufacturing",
+      "doi": "10.1016/J.ADDMA.2023.103612",
+      "impact": "IF 10.3",
+      "first": true,
+      "corresponding": true,
+      "jcr": "10"
+    },
+    {
+      "year": 2023,
+      "date": "Mar 2023",
+      "title": "Influence of linear energy on side surface roughness in powder bed fusion electron beam melting process: Coupled experimental and simulation study",
+      "authors": "Haejin Lee, Yeonghwan Song, Seungkyun Yim*, Kenta Aoyagi, Akihiko Chiba, Byoungsoo Lee*",
+      "journal": "Powder Technology",
+      "doi": "10.1016/J.POWTEC.2023.118292",
+      "impact": "IF 4.5",
+      "first": false,
+      "corresponding": true,
+      "jcr": "25"
+    },
+    {
+      "year": 2023,
+      "date": "Feb 2023",
+      "title": "Effect of mechanical ball milling on the electrical and powder bed properties of gas-atomized Ti-48Al-2Cr-2Nb and elucidation of the smoke mechanism in the powder bed fusion electron beam melting process",
+      "authors": "Seungkyun Yim, Kenta Aoyagi*, Keiji Yanagihara, Huakang Bian*, Akihiko Chiba",
+      "journal": "Journal of Materials Science & Technology",
+      "doi": "10.1016/J.JMST.2022.07.024",
+      "impact": "IF 10.9",
+      "first": true,
+      "corresponding": false,
+      "jcr": "10"
+    },
+    {
+      "year": 2022,
+      "date": "Nov 2022",
+      "title": "Factors determining the flowability and spreading quality of gas-atomized Ti-48Al-2Cr-2Nb powders in powder bed fusion additive manufacturing",
+      "authors": "Seungkyun Yim*, Kenta Aoyagi*, Huakang Bian, Yujie Cui, Akihiko Chiba",
+      "journal": "Powder Technology",
+      "doi": "10.1016/J.POWTEC.2022.117996",
+      "impact": "IF 5.2",
+      "first": true,
+      "corresponding": true,
+      "jcr": "25"
+    },
+    {
+      "year": 2022,
+      "date": "Mar 2022",
+      "title": "Ball-milling treatment of gas-atomized Ti-48Al-2Cr-2Nb powder and its effect on preventing smoking during electron beam powder bed fusion building process",
+      "authors": "Seungkyun Yim, Huakang Bian*, Kenta Aoyagi*, Keiji Yanagihara, Shin-ichi Kitamura, Hironobu Manabe, Yohei Daino, Yuichiro Hayasaka, Kenta Yamanaka, Akihiko Chiba*",
+      "journal": "Additive Manufacturing",
+      "doi": "10.1016/J.ADDMA.2022.102634",
+      "impact": "IF 10.998",
+      "first": true,
+      "corresponding": false,
+      "jcr": "10"
+    },
+    {
+      "year": 2022,
+      "date": "Jan 2022",
+      "title": "Spreading behavior of Ti-48Al-2Cr-2Nb powders in powder bed fusion additive manufacturing process: Experimental and discrete element method study",
+      "authors": "Seungkyun Yim, Huakang Bian*, Kenta Aoyagi, Kenta Yamanaka, Akihiko Chiba",
+      "journal": "Additive Manufacturing",
+      "doi": "10.1016/J.ADDMA.2021.102489",
+      "impact": "IF 10.998",
+      "first": true,
+      "corresponding": false,
+      "jcr": "10"
+    },
+    {
+      "year": 2021,
+      "date": "Jun 2021",
+      "title": "Effect of multi-stage heat treatment on mechanical properties and microstructure transformation of Ti-48Al-2Cr-2Nb alloy",
+      "authors": "Seungkyun Yim, Huakang Bian*, Kenta Aoyagi, Akihiko Chiba",
+      "journal": "Materials Science and Engineering: A",
+      "doi": "10.1016/J.MSEA.2021.141321",
+      "impact": "IF 6.044",
+      "first": true,
+      "corresponding": false,
+      "jcr": "25"
+    },
+    {
+      "year": 2020,
+      "date": "Sep 2020",
+      "title": "Sintering behavior, mechanical properties, and biocompatibility of TiO2–Co-calcium phosphates composites prepared by AROS process",
+      "authors": "Seungkyun Yim, Ilsong Park, Jeshin Park*",
+      "journal": "Materials Chemistry and Physics",
+      "doi": "",
+      "impact": "IF 4.094",
+      "first": true,
+      "corresponding": false,
+      "jcr": "50"
+    },
+    {
+      "year": 2019,
+      "date": "Apr 2019",
+      "title": "Effects of Co content in TiO2–Co composite prepared by alloying–recomposition–oxidation–sintering process on its mechanical properties and microstructure",
+      "authors": "Seungkyun Yim, Ilsong Park, Jeshin Park*",
+      "journal": "Journal of Composite Materials",
+      "doi": "",
+      "impact": "IF 1.972",
+      "first": true,
+      "corresponding": false,
+      "jcr": "50"
+    },
+    {
+      "year": 2018,
+      "date": "Aug 2018",
+      "title": "Sintered TiO2 powder containing metallic Co binder prepared via mechanical carbonization, and its mechanical properties",
+      "authors": "Seungkyun Yim, Ilsong Park, Jeshin Park*",
+      "journal": "Ceramics International",
+      "doi": "",
+      "impact": "IF 3.450",
+      "first": true,
+      "corresponding": false,
+      "jcr": "10"
+    }
+  ]
+}

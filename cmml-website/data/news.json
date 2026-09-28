@@ -1,0 +1,131 @@
+{
+  "_comment": "새 소식은 items 배열에 객체를 추가하세요. date 는 YYYY-MM-DD, tag/title/body 는 {en,ko}, link 는 선택(없으면 \"\").",
+  "labels": {
+    "title": {
+      "en": "News",
+      "ko": "소식"
+    },
+    "intro": {
+      "en": "Updates from the lab — publications, openings, and announcements.",
+      "ko": "연구실의 논문, 모집, 공지 등 소식입니다."
+    },
+    "empty": {
+      "en": "No news yet.",
+      "ko": "등록된 소식이 없습니다."
+    }
+  },
+  "items": [
+    {
+      "date": "2026-09-17",
+      "tag": {
+        "en": "Publication",
+        "ko": "논문"
+      },
+      "title": {
+        "en": "New paper in Materials Science and Engineering: A on Ni-based superalloys",
+        "ko": "Materials Science and Engineering: A 게재 — Ni기 초내열합금 연구"
+      },
+      "body": {
+        "en": "Overcoming the strength–weldability trade-off in high γ′ Ni-based superalloys via alloy redesign and electron beam PBF (Vol. 977, 151105).",
+        "ko": "합금 재설계와 전자빔 PBF로 고 γ′ Ni기 초내열합금의 강도–용접성 상충을 극복하였습니다 (Vol. 977, 151105)."
+      },
+      "link": "https://doi.org/10.1016/j.msea.2026.151105"
+    },
+    {
+      "date": "2026-09-01",
+      "tag": {
+        "en": "Lab",
+        "ko": "연구실"
+      },
+      "title": {
+        "en": "CMM Lab opens at Jeonbuk National University",
+        "ko": "전북대학교에 CMM Lab이 문을 엽니다"
+      },
+      "body": {
+        "en": "The Computational Materials and Manufacturing Laboratory starts in the Metallurgical System Engineering Major, Division of Advanced Materials Engineering. We are recruiting graduate and undergraduate researchers.",
+        "ko": "전산 소재·제조 연구실이 신소재공학부 금속시스템공학전공에서 시작합니다. 대학원생·학부연구생을 모집합니다."
+      },
+      "link": ""
+    },
+    {
+      "date": "2026-07-25",
+      "tag": {
+        "en": "Publication",
+        "ko": "논문"
+      },
+      "title": {
+        "en": "New paper in Additive Manufacturing: multiphysics simulation of Fe-6.5Si microstructure evolution",
+        "ko": "Additive Manufacturing 게재 — Fe-6.5Si 합금 미세조직 발달 멀티피직스 해석"
+      },
+      "body": {
+        "en": "Uncovering microstructure evolution in Fe-6.5Si alloy during powder bed fusion electron beam melting (Vol. 128, 105319).",
+        "ko": "전자빔 분말베드용융에서 Fe-6.5Si 합금의 미세조직 발달을 멀티피직스 시뮬레이션으로 규명하였습니다 (Vol. 128, 105319)."
+      },
+      "link": "https://doi.org/10.1016/j.addma.2026.105319"
+    },
+    {
+      "date": "2026-07-01",
+      "tag": {
+        "en": "Publication",
+        "ko": "논문"
+      },
+      "title": {
+        "en": "New paper in Powder Technology on Inconel 713LC recoating flowability",
+        "ko": "Powder Technology에 Inconel 713LC 리코팅 유동성 논문 게재"
+      },
+      "body": {
+        "en": "Linking bulk shear, charge relaxation, flow regimes, and effective cohesion in powder bed fusion.",
+        "ko": "분말베드용융에서 벌크 전단, 전하 완화, 유동 영역, 유효 응집력의 관계를 규명하였습니다."
+      },
+      "link": "https://doi.org/10.1016/j.powtec.2026.122712"
+    },
+    {
+      "date": "2026-05-01",
+      "tag": {
+        "en": "Publication",
+        "ko": "논문"
+      },
+      "title": {
+        "en": "Collaborative paper in Materials Science and Engineering: A",
+        "ko": "Materials Science and Engineering: A 공동연구 논문 게재"
+      },
+      "body": {
+        "en": "Microstructure and cryogenic tensile/fracture behavior of a laser-welded complex concentrated alloy.",
+        "ko": "레이저 용접된 복합농축합금의 미세조직 및 극저온 인장·파괴 거동을 다루었습니다."
+      },
+      "link": "https://doi.org/10.1016/j.msea.2026.150106"
+    },
+    {
+      "date": "2025-07-01",
+      "tag": {
+        "en": "Publication",
+        "ko": "논문"
+      },
+      "title": {
+        "en": "Paper in Journal of Materials Research and Technology",
+        "ko": "Journal of Materials Research and Technology 논문 게재"
+      },
+      "body": {
+        "en": "Influence of particle size distribution on powder bed quality in powder bed fusion additive manufacturing.",
+        "ko": "분말베드용융 적층제조에서 입도 분포가 분말층 품질에 미치는 영향을 규명하였습니다."
+      },
+      "link": "https://doi.org/10.1016/j.jmrt.2025.06.136"
+    },
+    {
+      "date": "2025-03-01",
+      "tag": {
+        "en": "Publication",
+        "ko": "논문"
+      },
+      "title": {
+        "en": "Paper in Additive Manufacturing on multiphysics simulation of printing surfaces",
+        "ko": "Additive Manufacturing에 인쇄면 멀티피직스 해석 논문 게재"
+      },
+      "body": {
+        "en": "Unveiling the influence of printing surfaces in powder bed fusion electron beam melting.",
+        "ko": "전자빔 분말베드용융에서 인쇄면의 영향을 멀티피직스 시뮬레이션으로 규명하였습니다."
+      },
+      "link": "https://doi.org/10.1016/j.addma.2025.104738"
+    }
+  ]
+}
